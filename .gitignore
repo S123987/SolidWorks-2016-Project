@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.sldprt.bak
+*.sldasm.bak
+*.SLDPRT.bak
+*.SLDASM.bak
