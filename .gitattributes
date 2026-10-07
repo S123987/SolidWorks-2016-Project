@@ -1,0 +1,11 @@
+*.SLDPRT -text
+*.SLDASM -text
+*.STL -text
+*.stl -text
+*.stp -text
+*.STEP -text
+*.IGS -text
+*.gx -text
+*.jpg -text
+*.PNG -text
+*.gif -text
